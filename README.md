@@ -1,5 +1,11 @@
-# StateMgtTemplate
+# NGRX Content Management System Template
+### When you click in menu items, the store is updated with menu titles, and it is read by Header, Content and Footer
 
+<img width="1797" alt="image" src="https://github.com/ameagol/ngrx-cms-template/assets/8441124/49750021-35cd-44f4-8d57-7fdc5e67f2f1">
+
+<img width="1634" alt="image" src="https://github.com/ameagol/ngrx-cms-template/assets/8441124/5d9ebe16-ea2f-4b2a-a48a-f23263a0f415">
+
+## 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.2.1.
 
 ## Development server
