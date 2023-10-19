@@ -1,0 +1,8 @@
+<nav role="navigation">
+  <ul class="main">
+    <li class="home"><a [routerLink]="['/home']" (click)="navigateTo('/home', 'Home')">Home</a></li>
+    <li class="articles"><a [routerLink]="['/articles']" (click)="navigateTo('/articles', 'Articles')">Articles</a></li>
+    <li class="dashboard"><a [routerLink]="['/dashboard']" (click)="navigateTo('/dashboard', 'Dashboard')">Dashboard</a></li>
+    <li class="profile"><a [routerLink]="['/profile']" (click)="navigateTo('/profile', 'Profile')">Profile</a></li>
+  </ul>
+</nav>
